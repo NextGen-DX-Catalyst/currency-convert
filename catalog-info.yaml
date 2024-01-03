@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: currency-convert
+  description: currency-convert is a robust, efficient library designed for enterprise-grade currency conversion.
+  tags:
+    - nodejs
+    - library
+spec:
+  type: library
+  lifecycle: experimental
+  owner: Payments
+
